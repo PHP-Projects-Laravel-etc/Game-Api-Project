@@ -26,7 +26,7 @@
                             <div class="flex font-semibold text-sm h-full justify-center items-center">92%</div>
                         </div>
                         <div class="ml-4 text-xs">Critic<br>Score</div>
-                    </div>
+                    ddsdsdsds
                     <div class="flex items-center space-x-4 lg:ml-12 mt-4 lg:mt-0">
                         <div class="w-8 h-8 bg-gray-800 rounded-full flex justify-center items-center">
                             <a href="" class="hover:text-gray-400">

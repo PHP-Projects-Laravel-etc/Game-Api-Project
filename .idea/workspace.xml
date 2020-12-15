@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ba0569c-4358-4225-a714-59979ab1a145" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Game/Services/IGDBService.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +144,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\www2\Laracast\game\app" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -154,7 +164,10 @@
       <option name="presentableId" value="Default" />
       <updated>1607889655884</updated>
       <workItem from="1607889657004" duration="7005000" />
-      <workItem from="1607931665503" duration="12855000" />
+      <workItem from="1607931665503" duration="14206000" />
+      <workItem from="1607971543255" duration="7061000" />
+      <workItem from="1608034342700" duration="249000" />
+      <workItem from="1608054758468" duration="6756000" />
     </task>
     <servers />
   </component>
@@ -162,10 +175,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607971695921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607971695921" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607891054895">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607891054895" />
+    <state x="576" y="135" key="NewPhpClassDialog" timestamp="1607971591874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="576" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1607971591874" />
     <state x="604" y="336" key="NewPhpFileDialog" timestamp="1607943964518">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -174,21 +195,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607893434936" />
-    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1607944633202">
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1607973866270">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1607944633202" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607893711250">
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1607973866270" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608055881093">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607893711250" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608055881093" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/resources/views/index.blade.php</url>
-          <line>187</line>
+          <line>29</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
