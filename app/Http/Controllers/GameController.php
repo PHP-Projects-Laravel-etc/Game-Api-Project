@@ -19,12 +19,12 @@ class GameController extends Controller
         $gameService = new IGDBService();
         $popularGames = $gameService->getPopularGames();
         $recentlyReviewedGames = $gameService->getRecentlyReviewedGames();
-        dump($popularGames);
-        dump($recentlyReviewedGames);
+        $mostAnticipatedGames = $gameService->getMostAnticipatedGames();
         return view('index',
             [
                 'popularGames' => $popularGames,
                 'recentlyViewedGames' => $recentlyReviewedGames,
+                'mostAnticipatedGames' => $mostAnticipatedGames,
             ]);
     }
 
